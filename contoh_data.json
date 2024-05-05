@@ -1,0 +1,249 @@
+[
+    {
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "62817309143-1556008238",
+        "_serialized": "62817309143-1556008238@g.us"
+      },
+      "creation": 1556008238,
+      "owner": {
+        "server": "c.us",
+        "user": "62817309143",
+        "_serialized": "62817309143@c.us"
+      },
+      "subject": "Produktif Menulis",
+      "subjectTime": 1556008238,
+      "descTime": 0,
+      "restrict": false,
+      "announce": false,
+      "ephemeralDuration": 0,
+      "size": 0,
+      "support": false,
+      "suspended": false,
+      "terminated": false,
+      "uniqueShortNameMap": {},
+      "lastActivityTimestamp": 0,
+      "lastSeenActivityTimestamp": 0,
+      "incognito": false,
+      "participants": [
+        {
+          "id": {
+            "server": "c.us",
+            "user": "62817309143",
+            "_serialized": "62817309143@c.us"
+          },
+          "isAdmin": true,
+          "isSuperAdmin": true
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "62811334932",
+            "_serialized": "62811334932@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "6281214619578",
+            "_serialized": "6281214619578@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "628121652190",
+            "_serialized": "628121652190@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "628123113020",
+            "_serialized": "628123113020@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "628123167957",
+            "_serialized": "628123167957@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "6281330745227",
+            "_serialized": "6281330745227@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "6281331081880",
+            "_serialized": "6281331081880@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "6281331375205",
+            "_serialized": "6281331375205@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "6282140991381",
+            "_serialized": "6282140991381@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "6285649778985",
+            "_serialized": "6285649778985@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "6287856064443",
+            "_serialized": "6287856064443@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "6287856247645",
+            "_serialized": "6287856247645@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        }
+      ],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "id": {
+      "server": "g.us",
+      "user": "62817309143-1556008238",
+      "_serialized": "62817309143-1556008238@g.us"
+    },
+    "name": "Produktif Menulis",
+    "isGroup": true,
+    "isReadOnly": false,
+    "unreadCount": 0,
+    "archived": true,
+    "pinned": false,
+    "muteExpiration": 0
+  },
+  {
+    "groupMetadata": {
+      "id": {
+        "server": "g.us",
+        "user": "628972924129-1562223553",
+        "_serialized": "628972924129-1562223553@g.us"
+      },
+      "creation": 1562223553,
+      "owner": {
+        "server": "c.us",
+        "user": "628972924129",
+        "_serialized": "628972924129@c.us"
+      },
+      "subject": "DokExpert RKAU",
+      "subjectTime": 1562223553,
+      "descTime": 0,
+      "restrict": false,
+      "announce": false,
+      "ephemeralDuration": 0,
+      "size": 0,
+      "support": false,
+      "suspended": false,
+      "terminated": false,
+      "uniqueShortNameMap": {},
+      "lastActivityTimestamp": 0,
+      "lastSeenActivityTimestamp": 0,
+      "incognito": false,
+      "participants": [
+        {
+          "id": {
+            "server": "c.us",
+            "user": "62817309143",
+            "_serialized": "62817309143@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "62811334932",
+            "_serialized": "62811334932@c.us"
+          },
+          "isAdmin": true,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "6281331375205",
+            "_serialized": "6281331375205@c.us"
+          },
+          "isAdmin": false,
+          "isSuperAdmin": false
+        },
+        {
+          "id": {
+            "server": "c.us",
+            "user": "6285649778985",
+            "_serialized": "6285649778985@c.us"
+          },
+          "isAdmin": true,
+          "isSuperAdmin": false
+        }
+      ],
+      "pendingParticipants": [],
+      "pastParticipants": [],
+      "membershipApprovalRequests": [],
+      "subgroupSuggestions": []
+    },
+    "id": {
+      "server": "g.us",
+      "user": "628972924129-1562223553",
+      "_serialized": "628972924129-1562223553@g.us"
+    },
+    "name": "DokExpert RKAU",
+    "isGroup": true,
+    "isReadOnly": false,
+    "unreadCount": 0,
+    "archived": true,
+    "pinned": false,
+    "muteExpiration": 0
+  }
+  ]
